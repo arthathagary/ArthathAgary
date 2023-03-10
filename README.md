@@ -29,6 +29,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mahfoos/github-readme-activity-graph"><img alt="Arthath Agary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arthathagary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/arthathagary/github-readme-activity-graph"><img alt="Arthath Agary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arthathagary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
