@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Web Projects**
 
 
-- 💬 Ask me about **Java,Python,JavaScript, ReactJs**
+- 💬 Ask me about **Java,TypeScript,JavaScript,NextJs,NodeJs,ExpressJs,ReactJs**
 
 - 📫 How to reach me **arthathagary4work@gmail.com**
 
